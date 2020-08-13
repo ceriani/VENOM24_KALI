@@ -6,7 +6,7 @@
 
 3>y despues escribimos 
 
-1)./VENOM24_KALI .
+1)./VENOM24-KALI .
 
 4>esperamos a que carge.
 
