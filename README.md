@@ -70,3 +70,7 @@
 5>y se van a la app vnc viwer.
 
 6>y inician venom24.
+
+#TUTORIAL DE INSTALACION.
+
+YOUTUBE==https://www.youtube.com/watch?v=Lclp1UWxvHA
