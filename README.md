@@ -71,6 +71,6 @@
 
 6>y inician venom24.
 
-#TUTORIAL DE INSTALACION.
+# TUTORIAL DE INSTALACION.
 
 YOUTUBE==https://www.youtube.com/watch?v=Lclp1UWxvHA
