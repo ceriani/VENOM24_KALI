@@ -4,7 +4,9 @@
 
 2>escribimos en la terminal = chmod +x * .
 
-3>y despues escribimos ./VENOM24_KALI .
+3>y despues escribimos 
+
+1)./VENOM24_KALI .
 
 4>esperamos a que carge.
 
@@ -56,14 +58,14 @@
 
 3>la ejecutamos devuelta y escribimos en este orden.
 
-cd VENOM24_KALI
-./start_kali.sh
-sh de-apt-xfce4.sh
+1)cd VENOM24_KALI
+2)./start_kali.sh
+3)sh de-apt-xfce4.sh
 
 4>esperan a que carge y cuando termina escriben lo siguiente.
 
-vncserver-stop
-vncserver-start
+1)vncserver-stop
+2)vncserver-start
 
 5>y se van a la app vnc viwer.
 
